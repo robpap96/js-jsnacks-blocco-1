@@ -5,6 +5,6 @@ let tot = 0;
 
 for(let i = 0; i < 10; i++) {
     const number = Number(prompt(`insrisci un numero`)) ;
-     tot += number;
+    tot += number;
 }
 console.log(`totale = ${tot}`);
